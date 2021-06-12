@@ -1,0 +1,29 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .pieanddough{
+    width: 60%;
+  }
+
+  #legend li span {
+    width: 36px;
+    height: 12px;
+    display: inline-block;
+    margin: 0 5px 8px 0;
+    vertical-align: -9.4px;
+  }
+  #legend ul {
+    list-style: none;
+    font: 12px Verdana;
+    white-space: nowrap;
+  }
+  .pie{
+    width: 50%;
+    height: 50%;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+  }
+  
